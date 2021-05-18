@@ -1,1 +1,1 @@
-<?php $RDS_URL=''; $RDS_DB=''; $RDS_user='admin'; $RDS_pwd='12345678'; $AFF_NUM='0'; ?>
+<?php $RDS_URL='aaoh1jnjecjfuy.ccpu0pavm9z8.us-east-1.rds.amazonaws.com'; $RDS_DB='data'; $RDS_user='admin'; $RDS_pwd='Bazinga26'; $AFF_NUM='0';
