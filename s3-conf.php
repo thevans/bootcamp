@@ -1,1 +1,1 @@
-<?php $accessKey=''; $secretKey=''; $region='us-east-1'; $bucket='pages.comunidadecloud.com'; $arqName='logo.jpg'; $linkestatico='https://s3.amazonaws.com' ?>
+<?php $accessKey='AKIAVHVNSQZHHOXNRRNW'; $secretKey='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'; $region='us-east-1'; $bucket='bootcamp-thevans'; $arqName='logo.jpg'; $linkestatico='https://s3.amazonaws.com' ?>
